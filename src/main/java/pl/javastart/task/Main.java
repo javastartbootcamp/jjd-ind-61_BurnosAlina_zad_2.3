@@ -30,8 +30,5 @@ public class Main {
         System.out.printf(Locale.ENGLISH, "Drink: %s%nCena: %.1fzl%nCzy zawiera alkohol? %b%nSkladniki:" +
                 "%n%s%n%s%n%s%nPojemnosc: %dml", drink1.name, drink1.price, drink1.alcoholic,
                 ingredient1.name, ingredient2.name, ingredient3.name, drink1Capacity);
-
-
-
     }
 }
